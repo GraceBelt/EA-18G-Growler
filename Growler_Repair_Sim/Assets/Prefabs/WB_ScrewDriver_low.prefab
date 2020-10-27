@@ -28,7 +28,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2673330623010356432}
+<<<<<<< Updated upstream
   m_LocalRotation: {x: -0.6516533, y: 0.31750074, z: 0.3480316, w: 0.5944874}
+=======
+  m_LocalRotation: {x: -0.651653, y: 0.31750056, z: 0.34803063, w: 0.59448844}
+>>>>>>> Stashed changes
   m_LocalPosition: {x: -9.891, y: 0.09499998, z: -7.695}
   m_LocalScale: {x: 0.0013777021, y: 0.013717391, z: 0.0013777026}
   m_Children:
@@ -62,7 +66,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< Updated upstream
   - {fileID: 5561349426305759274, guid: 8d3834ab9e467764a9e7a3752fd5c7b4, type: 3}
+=======
+  - {fileID: 2100000, guid: 61f256ea51965654c981b6e39ce43781, type: 2}
+>>>>>>> Stashed changes
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -155,7 +163,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_CustomReticle: {fileID: 0}
+<<<<<<< Updated upstream
   m_AttachTransform: {fileID: 0}
+=======
+  m_AttachTransform: {fileID: 8783357566515150235}
+>>>>>>> Stashed changes
   m_AttachEaseInTime: 0.15
   m_MovementType: 1
   m_TrackPosition: 1
@@ -210,10 +222,18 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5632322646591969723}
+<<<<<<< Updated upstream
   m_LocalRotation: {x: 0.7071068, y: -0.7071068, z: 0, w: 0}
+=======
+  m_LocalRotation: {x: -0.4956177, y: 0.5043442, z: 0.5043442, w: 0.4956177}
+>>>>>>> Stashed changes
   m_LocalPosition: {x: 0, y: -7.57, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3337805750318982762}
   m_RootOrder: 0
+<<<<<<< Updated upstream
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 90}
+=======
+  m_LocalEulerAnglesHint: {x: -90, y: 1, z: 90}
+>>>>>>> Stashed changes
